@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>res/player_front.png</file>
-    </qresource>
-</RCC>
